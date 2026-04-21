@@ -1,11 +1,3 @@
-[![Actions Status](https://github.com/ducanhkun/ducanhkun/workflows/wakatime-stats/badge.svg)](https://github.com/ducanhkun/ducanhkun/actions)
-[![Actions Status](https://github.com/ducanhkun/ducanhkun/workflows/update-gh-activity/badge.svg)](https://github.com/ducanhkun/ducanhkun/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=ducanhkun.ducanhkun)
-
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
-
 <p align="center">
   <img src="https://socialify.git.ci/ducanhkun/ducanhkun/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="ducanhkun" width="700" height="300" />
 </p>
