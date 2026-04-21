@@ -19,6 +19,24 @@ will_learn: ["AI Engineer"]
 hobbies: ["Travel", "Cinema", "Competitive Gaming"]
 ```
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   13 hrs 53 mins        █████████████████████▒░░░   85.05 %
+Other        1 hr 2 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+CSS          27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Markdown     23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Python       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+```
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ducanhkun&show_icons=true&theme=gotham" alt="ducanhkun" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+
+
